@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
+title: Wang Chen
 description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
 author: Wang Chen
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/life" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
