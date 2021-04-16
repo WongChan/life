@@ -1,6 +1,6 @@
 ---
 title:  "SS"
-subtitle: "The Fly!"
+subtitle: "My Love!"
 author: "Wang Chen"
 avatar: "img/authors/vic.png"
 image: "img/test/rose.jpg"
