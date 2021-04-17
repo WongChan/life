@@ -1,5 +1,5 @@
 ---
-title:  "SS"
+title:  "H.Su"
 subtitle: "My Love!"
 author: "Wang Chen"
 avatar: "img/authors/vic.png"
@@ -7,7 +7,7 @@ image: "img/test/rose.jpg"
 date:   2021-03-20 12:12:12
 ---
 
-### Sh
+### Susu
 
 <img class="img-responsive image-center thumbnail" src="{{site.url}}/life/img/test/ss1.jpg" width = "100%" alt="sh" align=center />
 
